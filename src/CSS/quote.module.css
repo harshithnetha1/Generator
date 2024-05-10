@@ -1,0 +1,20 @@
+.background{
+    background-color: aquamarine;
+    justify-content: end;
+    width:fit-content;
+    padding: 50px;
+    margin: auto;
+    margin-top: 16%;
+    display: flex;
+    text-align: center;
+    
+    
+
+}
+.card{
+    height: 17vh;
+    width: 50vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
